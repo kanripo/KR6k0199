@@ -1,23 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:13.126476
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 慈悲水懺法
 #+PROPERTY: CBETA_ID T45n1910
 #+PROPERTY: ID KR6k0199
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1910
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0199_T_000-0967c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0199_T_001-0967c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1910¶
+No. 1910¶
 
-御製水懺序
-:PROPERTIES:
-:head: 御製水懺序
-:END:
-¶
+* 御製水懺序¶
 ¶
 
 夫三昧水懺者。因唐悟達國師知玄。遇迦諾
@@ -52,10 +48,7 @@ No.1910¶
 <pb:KR6k0199_T_001-0968b>¶
 ¶
 
-:PROPERTIES:
-:head: 慈悲道場水懺序
-:END:
-¶
+* 慈悲道場水懺序¶
 ¶
 
 竊謂聖教經律論藏譯席所翻之外。爾後群賢¶
@@ -97,19 +90,14 @@ No.1910¶
 幾開卷。若禮若誦者。知前賢事跡之有端。由歷¶
 劫果因之不昧也。¶
 
-啟運慈悲道場懺法
-:PROPERTIES:
-:head: 啟運慈悲道場懺法
-:END:
-¶
+* 啟運慈悲道場懺法¶
 
 一心歸命三世諸佛　南無過去毘婆尸佛¶
 　南無尸棄佛　南無毘舍浮佛　南無拘留¶
 孫佛　南無拘那含牟尼佛　南無迦葉佛¶
 　南無本師釋迦牟尼佛　南無當來彌勒尊¶
 佛¶
-
- 上慈悲水懺法卷上¶
+慈悲水懺法卷上¶
 
 一切諸佛愍念眾生。為說水懺道場總法。佛¶
 言。眾生垢重。何人無罪何者無愆。凡夫愚行¶

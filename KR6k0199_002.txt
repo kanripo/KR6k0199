@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:13.156781
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 慈悲水懺法
 #+PROPERTY: CBETA_ID T45n1910
 #+PROPERTY: ID KR6k0199
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1910
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0199_T_000-0967c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0199_T_002-0971b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 中慈悲水懺法卷中¶
+慈悲水懺法卷中¶
 ¶
 
 一切諸佛愍念眾生。為說水懺道場總法。今¶

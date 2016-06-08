@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:13.186927
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 慈悲水懺法
 #+PROPERTY: CBETA_ID T45n1910
 #+PROPERTY: ID KR6k0199
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1910
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0199_T_000-0967c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0199_T_003-0975b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 下慈悲水懺法卷下¶
+慈悲水懺法卷下¶
 ¶
 
 一切諸佛愍念眾生為說水懺道場總法今當¶
@@ -62,7 +61,7 @@
 門。楚撻驅使苦言加謗。或破淨戒及破威儀。¶
 或勸他人捨於八正受行五法。或假託形儀¶
 闚竊常住。如是等罪今悉懺悔。或裸露身形¶
-輕衣傏𠊲。在經像前不淨脚履踏上殿塔。或¶
+輕衣𠊲。在經像前不淨脚履踏上殿塔。或¶
 著屧屐入僧伽藍。涕唾堂房污佛僧地。乘車¶
 策馬排揬寺舍。凡如是等於三寶間所起罪¶
 障無量無邊。今日至禱向十方佛尊法聖眾。¶
