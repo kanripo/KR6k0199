@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:13.156781
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 慈悲水懺法
 #+PROPERTY: CBETA_ID T45n1910
 #+PROPERTY: ID KR6k0199
